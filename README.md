@@ -1,3 +1,4 @@
+![Image] (asset/Image.png)
 # Sheel Patel
 
 **Aspiring Data & Business Analyst**  
@@ -14,6 +15,14 @@ I’ve been recognized multiple times for my work ethic and commitment, includin
 Now based in Canada, I’m advancing my skills through a postgraduate certificate in Business Analytics at Niagara College, after completing a diploma in FinTech at Conestoga College. I’m actively working on data-driven projects using tools like Power BI, Excel, Python, and R, and I’m eager to bridge my IT experience with analytics to support smarter decision-making and operational efficiency.
 
 ---
+
+## Experience 
+
+### American Infosource: (2019-2023)
+-  Monitored systems, performed network troubleshooting, and ensured uptime for critical business applications.
+-  Collaborated with network engineers and senior management to maintain high availability and performance.
+-  On Clients end, was responsible for more than 200 branches and 575 ATM's network.
+-  Met the SLA with 94%, and got a certificate of appreciation from Cadance Bank. 
 
 ## 📊 Projects  
 ### 1. Scrap & Production Data Analysis – THK Rhythm Canada
