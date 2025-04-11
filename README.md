@@ -93,4 +93,4 @@ The project offered deep insights into user behavior, strategic positioning, and
 
 ---
 
-## 📄 [Here's My Resume](Sheel_Patel_Resume.pdf)
+## 📄 [Here's My Resume](asset/Sheel_Patel_Resume.pdf)
