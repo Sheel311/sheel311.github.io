@@ -1,4 +1,4 @@
-![Image] (asset/Image.png)
+
 # Sheel Patel
 
 **Aspiring Data & Business Analyst**  
